@@ -3,7 +3,7 @@ h1 a {
     font-family: 'Gloria Hallelujah', sans-serif;
 }
 body {
-    padding-left: 30px;
+    padding-left: 0px;
 }
 
 .page-header {
@@ -51,4 +51,8 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #DB4861;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
 }
